@@ -5,7 +5,7 @@ O objetivo é apresentar minhas habilidades, projetos, experiência e formas de 
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **HTML5** — Estrutura semântica e organizada  
 - **CSS3** — Layout responsivo, grid, efeitos visuais e tipografia  
